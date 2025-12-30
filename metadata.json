@@ -1,0 +1,13 @@
+{
+  "name": "Silent Money",
+  "description": "An offline-first, privacy-focused expense tracker that parses bank SMS messages to automatically log transactions and provide spending insights. Designed for the African market.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "androidPermissions": [
+    "android.permission.RECEIVE_SMS",
+    "android.permission.READ_SMS"
+  ]
+}
