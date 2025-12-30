@@ -26,7 +26,7 @@ jobs:
           npm install cordova-plugin-sms-receive
 
       - name: Build Web App
-        # Adjust 'npm run build' if your build script is named differently
+        # Adjust 'npm run build' if your build script is named differentl
         run: npm run build
 
       - name: Initialize Capacitor Android
